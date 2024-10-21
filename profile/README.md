@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center"><img src="https://github.com/user-attachments/assets/66da869c-bf9e-446e-991c-23bdf687071d" width="400" height="400"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/2dd69ce8-e60d-43ca-993d-ba716b89d039" width="400" height="400"/></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/groups/12007379"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt='linkedin profile'/> </a>
